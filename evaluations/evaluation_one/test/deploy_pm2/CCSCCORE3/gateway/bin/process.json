@@ -1,0 +1,13 @@
+{
+  apps : [{
+    name:"www3",
+    script    : "bin/www.js",
+    instances : "5",
+    exec_mode : "cluster"
+  },
+    {
+      name:"oracle3",
+      script    : "bin/oracle.js",
+      exec_mode : "fork"
+    }]
+}

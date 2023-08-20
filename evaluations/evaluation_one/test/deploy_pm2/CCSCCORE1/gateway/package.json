@@ -1,0 +1,47 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node bin/www.js",
+    "starto": "node bin/oracle.js",
+    "startm": "node bin/MMR.js",
+    "startp": "node bin/PBR.js",
+    "pm2start": "pm2 start bin/www.js --name='www' -i max",
+    "pm2startclustr": "pm2 start bin/process.js",
+    "pm2stop": "pm2 stop www",
+    "dev": "./node_modules/.bin/nodemon bin/www.js",
+    "prd": "pm2 start bin/www.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "autocannon": "^7.11.0",
+    "axios": "^1.2.1",
+    "debug": "^4.1.1",
+    "dockerode": "^3.3.5",
+    "ejs": "~2.3.3",
+    "ethers": "^5.4.1",
+    "forever": "^4.0.3",
+    "fs": "^0.0.1-security",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-convert": "^1.2.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.0",
+    "koa-onerror": "^4.1.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.0",
+    "mongoose": "^6.10.0",
+    "path": "^0.12.7",
+    "pm2": "^5.2.2",
+    "sleep": "^6.3.0",
+    "tx2": "^1.0.5",
+    "v8-profiler-next": "^1.9.0",
+    "web3": "^1.8.1",
+    "ws": "^8.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

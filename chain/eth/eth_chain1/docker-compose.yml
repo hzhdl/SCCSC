@@ -1,0 +1,16 @@
+version: '3.3'
+services:
+  openethereum:
+    container_name: ccscethchain1
+    image: openethereum/openethereum
+    volumes:
+      - ./:/home/openethereum/.local/share/openethereum
+    command: >
+      --config /home/openethereum/.local/share/openethereum/config.toml
+      --base-path /home/openethereum/.local/share/openethereum/chain-data
+      --keys-path /home/openethereum/.local/share/openethereum/keys
+    ports:
+      - 8645:8645
+      - 8646:8646
+#      - 30003:30003
+#      - 30003:30003/udp

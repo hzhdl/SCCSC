@@ -1,0 +1,35 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'pm2', '-g' ]
+2 info using npm@3.5.2
+3 info using node@v16.18.1
+4 verbose stack Error: Cannot find module 'ansi'
+4 verbose stack Require stack:
+4 verbose stack - /usr/share/npm/lib/ls.js
+4 verbose stack - /usr/share/npm/lib/install.js
+4 verbose stack - /usr/share/npm/lib/npm.js
+4 verbose stack - /usr/share/npm/bin/npm-cli.js
+4 verbose stack     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+4 verbose stack     at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+4 verbose stack     at Module.require (node:internal/modules/cjs/loader:1057:19)
+4 verbose stack     at require (node:internal/modules/cjs/helpers:103:18)
+4 verbose stack     at Object.<anonymous> (/usr/share/npm/lib/ls.js:15:13)
+4 verbose stack     at Module._compile (node:internal/modules/cjs/loader:1155:14)
+4 verbose stack     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+4 verbose stack     at Module.load (node:internal/modules/cjs/loader:1033:32)
+4 verbose stack     at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+4 verbose stack     at Module.require (node:internal/modules/cjs/loader:1057:19)
+5 verbose cwd /home/hzh/newccsc/evaluations/evaluation_one
+6 error Linux 4.15.0-193-generic
+7 error argv "/usr/bin/node" "/usr/bin/npm" "install" "pm2" "-g"
+8 error node v16.18.1
+9 error npm  v3.5.2
+10 error code MODULE_NOT_FOUND
+11 error Cannot find module 'ansi'
+11 error Require stack:
+11 error - /usr/share/npm/lib/ls.js
+11 error - /usr/share/npm/lib/install.js
+11 error - /usr/share/npm/lib/npm.js
+11 error - /usr/share/npm/bin/npm-cli.js
+12 error If you need help, you may report this error at:
+12 error     <https://github.com/npm/npm/issues>
+13 verbose exit [ 1, true ]

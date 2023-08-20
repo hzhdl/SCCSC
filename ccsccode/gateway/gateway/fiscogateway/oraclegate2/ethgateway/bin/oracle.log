@@ -1,0 +1,360 @@
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ oracle    │ default     │ 0.1.0   │ fork    │ 2945258  │ 101s   │ 0    │ online    │ 0%       │ 98.2mb   │ hzh      │ disabled │
+│ 3   │ oracle    │ default     │ 0.1.0   │ fork    │ 2945965  │ 0s     │ 0    │ online    │ 100%     │ 34.2mb   │ hzh      │ disabled │
+│ 4   │ oracle    │ default     │ 0.1.0   │ fork    │ 2945971  │ 0s     │ 0    │ online    │ 0%       │ 26.1mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 2945259  │ 101s   │ 0    │ online    │ 0%       │ 98.4mb   │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ fork    │ 2945964  │ 0s     │ 0    │ online    │ 100%     │ 40.1mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 1   │ oracle    │ default     │ 0.1.0   │ fork    │ 2948371  │ 0s     │ 0    │ online    │ 75%      │ 51.1mb   │ hzh      │ disabled │
+│ 4   │ oracle    │ default     │ 0.1.0   │ fork    │ 2948393  │ 0s     │ 0    │ online    │ 125%     │ 47.5mb   │ hzh      │ disabled │
+│ 6   │ oracle    │ default     │ 0.1.0   │ fork    │ 2948402  │ 0s     │ 0    │ online    │ 50%      │ 41.9mb   │ hzh      │ disabled │
+│ 7   │ oracle    │ default     │ 0.1.0   │ fork    │ 2948428  │ 0s     │ 0    │ online    │ 0%       │ 28.8mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 2948365  │ 0s     │ 0    │ online    │ 75%      │ 51.2mb   │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ fork    │ 2948377  │ 0s     │ 0    │ online    │ 75%      │ 49.8mb   │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ fork    │ 2948379  │ 0s     │ 0    │ online    │ 100%     │ 49.0mb   │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ fork    │ 2948401  │ 0s     │ 0    │ online    │ 50%      │ 45.4mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ oracle    │ default     │ 0.1.0   │ fork    │ 2949714  │ 0s     │ 0    │ online    │ 166.7%   │ 49.4mb   │ hzh      │ disabled │
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 2949721  │ 0s     │ 0    │ online    │ 166.7%   │ 48.9mb   │ hzh      │ disabled │
+│ 4   │ oracle    │ default     │ 0.1.0   │ fork    │ 2949739  │ 0s     │ 0    │ online    │ 166.7%   │ 47.7mb   │ hzh      │ disabled │
+│ 7   │ oracle    │ default     │ 0.1.0   │ fork    │ 2949762  │ 0s     │ 0    │ online    │ 100%     │ 40.1mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 2949715  │ 0s     │ 0    │ online    │ 166.7%   │ 49.8mb   │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ fork    │ 2949727  │ 0s     │ 0    │ online    │ 133.3%   │ 49.2mb   │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ fork    │ 2949741  │ 0s     │ 0    │ online    │ 166.7%   │ 46.7mb   │ hzh      │ disabled │
+│ 6   │ www       │ default     │ 0.1.0   │ fork    │ 2949755  │ 0s     │ 0    │ online    │ 100%     │ 42.5mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 2950601  │ 0s     │ 0    │ online    │ 300%     │ 48.8mb   │ hzh      │ disabled │
+│ 3   │ oracle    │ default     │ 0.1.0   │ fork    │ 2950608  │ 0s     │ 0    │ online    │ 200%     │ 48.5mb   │ hzh      │ disabled │
+│ 5   │ oracle    │ default     │ 0.1.0   │ fork    │ 2950623  │ 0s     │ 0    │ online    │ 200%     │ 41.9mb   │ hzh      │ disabled │
+│ 7   │ oracle    │ default     │ 0.1.0   │ fork    │ 2950636  │ 0s     │ 0    │ online    │ 200%     │ 34.2mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 2950594  │ 0s     │ 0    │ online    │ 200%     │ 48.8mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 2950600  │ 0s     │ 0    │ online    │ 100%     │ 49.5mb   │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ fork    │ 2950621  │ 0s     │ 0    │ online    │ 200%     │ 42.9mb   │ hzh      │ disabled │
+│ 6   │ www       │ default     │ 0.1.0   │ fork    │ 2950634  │ 0s     │ 0    │ online    │ 200%     │ 40.8mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 1   │ oracle    │ default     │ 0.1.0   │ fork    │ 2951238  │ 0s     │ 0    │ online    │ 0%       │ 33.1mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 2951228  │ 0s     │ 0    │ online    │ 0%       │ 42.5mb   │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ fork    │ 2951239  │ 0s     │ 0    │ online    │ 0%       │ 26.1mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 3026206  │ 0s     │ 0    │ online    │ 0%       │ 47.1mb   │ hzh      │ disabled │
+│ 4   │ oracle    │ default     │ 0.1.0   │ fork    │ 3026226  │ 0s     │ 0    │ online    │ 0%       │ 41.9mb   │ hzh      │ disabled │
+│ 5   │ oracle    │ default     │ 0.1.0   │ fork    │ 3026233  │ 0s     │ 0    │ online    │ 0%       │ 40.7mb   │ hzh      │ disabled │
+│ 6   │ oracle    │ default     │ 0.1.0   │ fork    │ 3026234  │ 0s     │ 0    │ online    │ 0%       │ 36.2mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 3026199  │ 0s     │ 0    │ online    │ 0%       │ 48.5mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 3026200  │ 0s     │ 0    │ online    │ 0%       │ 46.7mb   │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ fork    │ 3026217  │ 0s     │ 0    │ online    │ 0%       │ 42.8mb   │ hzh      │ disabled │
+│ 7   │ www       │ default     │ 0.1.0   │ fork    │ 3026240  │ 0s     │ 0    │ online    │ 0%       │ 35.2mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ oracle    │ default     │ 0.1.0   │ fork    │ 3027777  │ 0s     │ 0    │ online    │ 0%       │ 40.7mb   │ hzh      │ disabled │
+│ 1   │ oracle    │ default     │ 0.1.0   │ fork    │ 3027778  │ 0s     │ 0    │ online    │ 0%       │ 38.3mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 3358912  │ 0s     │ 0    │ online    │ 0%       │ 33.9mb   │ hzh      │ disabled │
+│ 3   │ oracle    │ default     │ 0.1.0   │ fork    │ 3358918  │ 0s     │ 0    │ online    │ 0%       │ 26.1mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 3358902  │ 0s     │ 0    │ online    │ 0%       │ 42.5mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 3358910  │ 0s     │ 0    │ online    │ 0%       │ 36.2mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2][ERROR] Script already launched, add -f option to force re-execution
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 3365275  │ 0s     │ 0    │ online    │ 120%     │ 46.8mb   │ hzh      │ disabled │
+│ 4   │ oracle    │ default     │ 0.1.0   │ fork    │ 3365288  │ 0s     │ 0    │ online    │ 120%     │ 42.5mb   │ hzh      │ disabled │
+│ 6   │ oracle    │ default     │ 0.1.0   │ fork    │ 3365304  │ 0s     │ 0    │ online    │ 0%       │ 31.1mb   │ hzh      │ disabled │
+│ 7   │ oracle    │ default     │ 0.1.0   │ fork    │ 3365310  │ 0s     │ 0    │ online    │ 0%       │ 20.8mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 3365268  │ 0s     │ 0    │ online    │ 140%     │ 48.5mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 3365269  │ 0s     │ 0    │ online    │ 120%     │ 47.6mb   │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ fork    │ 3365281  │ 0s     │ 0    │ online    │ 100%     │ 42.9mb   │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ fork    │ 3365302  │ 0s     │ 0    │ online    │ 0%       │ 35.9mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ oracle    │ default     │ 0.1.0   │ fork    │ 3385548  │ 0s     │ 0    │ online    │ 0%       │ 41.9mb   │ hzh      │ disabled │
+│ 1   │ oracle    │ default     │ 0.1.0   │ fork    │ 3385556  │ 0s     │ 0    │ online    │ 0%       │ 34.3mb   │ hzh      │ disabled │
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 3385558  │ 0s     │ 0    │ online    │ 0%       │ 31.0mb   │ hzh      │ disabled │
+│ 3   │ oracle    │ default     │ 0.1.0   │ fork    │ 3385564  │ 0s     │ 0    │ online    │ 0%       │ 20.9mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 5   │ oracle    │ default     │ 0.1.0   │ fork    │ 3386120  │ 3s     │ 0    │ online    │ 0%       │ 126.8mb  │ hzh      │ disabled │
+│ 19  │ oracle    │ default     │ 0.1.0   │ fork    │ 3386347  │ 1s     │ 0    │ online    │ 240%     │ 104.9mb  │ hzh      │ disabled │
+│ 23  │ oracle    │ default     │ 0.1.0   │ fork    │ 3386429  │ 0s     │ 0    │ online    │ 100%     │ 64.1mb   │ hzh      │ disabled │
+│ 24  │ oracle    │ default     │ 0.1.0   │ fork    │ 3386495  │ 0s     │ 0    │ online    │ 0%       │ 20.7mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ cluster │ 3386031  │ 4s     │ 0    │ online    │ 0%       │ 126.0mb  │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ cluster │ 3386038  │ 4s     │ 0    │ online    │ 0%       │ 126.5mb  │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ cluster │ 3386049  │ 3s     │ 0    │ online    │ 0%       │ 126.4mb  │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ cluster │ 3386060  │ 3s     │ 0    │ online    │ 0%       │ 126.1mb  │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ cluster │ 3386075  │ 3s     │ 0    │ online    │ 0%       │ 128.1mb  │ hzh      │ disabled │
+│ 6   │ www       │ default     │ 0.1.0   │ cluster │ 3386128  │ 3s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 7   │ www       │ default     │ 0.1.0   │ cluster │ 3386138  │ 3s     │ 0    │ online    │ 20%      │ 127.3mb  │ hzh      │ disabled │
+│ 8   │ www       │ default     │ 0.1.0   │ cluster │ 3386149  │ 3s     │ 0    │ online    │ 0%       │ 126.8mb  │ hzh      │ disabled │
+│ 9   │ www       │ default     │ 0.1.0   │ cluster │ 3386170  │ 3s     │ 0    │ online    │ 100%     │ 127.4mb  │ hzh      │ disabled │
+│ 10  │ www       │ default     │ 0.1.0   │ cluster │ 3386185  │ 3s     │ 0    │ online    │ 160%     │ 126.3mb  │ hzh      │ disabled │
+│ 11  │ www       │ default     │ 0.1.0   │ cluster │ 3386196  │ 3s     │ 0    │ online    │ 80%      │ 124.5mb  │ hzh      │ disabled │
+│ 12  │ www       │ default     │ 0.1.0   │ cluster │ 3386215  │ 2s     │ 0    │ online    │ 100%     │ 125.3mb  │ hzh      │ disabled │
+│ 13  │ www       │ default     │ 0.1.0   │ cluster │ 3386230  │ 2s     │ 0    │ online    │ 100%     │ 124.0mb  │ hzh      │ disabled │
+│ 14  │ www       │ default     │ 0.1.0   │ cluster │ 3386245  │ 2s     │ 0    │ online    │ 100%     │ 124.1mb  │ hzh      │ disabled │
+│ 15  │ www       │ default     │ 0.1.0   │ cluster │ 3386256  │ 2s     │ 0    │ online    │ 120%     │ 124.0mb  │ hzh      │ disabled │
+│ 16  │ www       │ default     │ 0.1.0   │ cluster │ 3386275  │ 2s     │ 0    │ online    │ 140%     │ 125.2mb  │ hzh      │ disabled │
+│ 17  │ www       │ default     │ 0.1.0   │ cluster │ 3386290  │ 2s     │ 0    │ online    │ 100%     │ 112.6mb  │ hzh      │ disabled │
+│ 18  │ www       │ default     │ 0.1.0   │ cluster │ 3386341  │ 1s     │ 0    │ online    │ 180%     │ 103.3mb  │ hzh      │ disabled │
+│ 20  │ www       │ default     │ 0.1.0   │ cluster │ 3386356  │ 1s     │ 0    │ online    │ 100%     │ 97.9mb   │ hzh      │ disabled │
+│ 21  │ www       │ default     │ 0.1.0   │ cluster │ 3386421  │ 0s     │ 0    │ online    │ 100%     │ 66.7mb   │ hzh      │ disabled │
+│ 22  │ www       │ default     │ 0.1.0   │ cluster │ 3386428  │ 0s     │ 0    │ online    │ 140%     │ 64.7mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 6   │ oracle    │ default     │ 0.1.0   │ fork    │ 3417325  │ 3s     │ 0    │ online    │ 0%       │ 128.7mb  │ hzh      │ disabled │
+│ 18  │ oracle    │ default     │ 0.1.0   │ fork    │ 3417546  │ 1s     │ 0    │ online    │ 100%     │ 97.1mb   │ hzh      │ disabled │
+│ 21  │ oracle    │ default     │ 0.1.0   │ fork    │ 3417626  │ 0s     │ 0    │ online    │ 125%     │ 67.0mb   │ hzh      │ disabled │
+│ 24  │ oracle    │ default     │ 0.1.0   │ fork    │ 3417706  │ 0s     │ 0    │ online    │ 0%       │ 31.8mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ cluster │ 3417235  │ 4s     │ 0    │ online    │ 0%       │ 126.2mb  │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ cluster │ 3417242  │ 4s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ cluster │ 3417253  │ 3s     │ 0    │ online    │ 0%       │ 127.5mb  │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ cluster │ 3417264  │ 3s     │ 0    │ online    │ 0%       │ 125.7mb  │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ cluster │ 3417279  │ 3s     │ 0    │ online    │ 0%       │ 128.2mb  │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ cluster │ 3417324  │ 3s     │ 0    │ online    │ 0%       │ 126.0mb  │ hzh      │ disabled │
+│ 7   │ www       │ default     │ 0.1.0   │ cluster │ 3417342  │ 3s     │ 0    │ online    │ 0%       │ 127.5mb  │ hzh      │ disabled │
+│ 8   │ www       │ default     │ 0.1.0   │ cluster │ 3417353  │ 3s     │ 0    │ online    │ 0%       │ 126.8mb  │ hzh      │ disabled │
+│ 9   │ www       │ default     │ 0.1.0   │ cluster │ 3417370  │ 3s     │ 0    │ online    │ 0%       │ 126.2mb  │ hzh      │ disabled │
+│ 10  │ www       │ default     │ 0.1.0   │ cluster │ 3417389  │ 3s     │ 0    │ online    │ 50%      │ 126.1mb  │ hzh      │ disabled │
+│ 11  │ www       │ default     │ 0.1.0   │ cluster │ 3417404  │ 3s     │ 0    │ online    │ 100%     │ 126.7mb  │ hzh      │ disabled │
+│ 12  │ www       │ default     │ 0.1.0   │ cluster │ 3417419  │ 2s     │ 0    │ online    │ 125%     │ 126.1mb  │ hzh      │ disabled │
+│ 13  │ www       │ default     │ 0.1.0   │ cluster │ 3417434  │ 2s     │ 0    │ online    │ 125%     │ 124.7mb  │ hzh      │ disabled │
+│ 14  │ www       │ default     │ 0.1.0   │ cluster │ 3417450  │ 2s     │ 0    │ online    │ 125%     │ 125.4mb  │ hzh      │ disabled │
+│ 15  │ www       │ default     │ 0.1.0   │ cluster │ 3417465  │ 2s     │ 0    │ online    │ 125%     │ 123.4mb  │ hzh      │ disabled │
+│ 16  │ www       │ default     │ 0.1.0   │ cluster │ 3417480  │ 2s     │ 0    │ online    │ 125%     │ 125.7mb  │ hzh      │ disabled │
+│ 17  │ www       │ default     │ 0.1.0   │ cluster │ 3417495  │ 2s     │ 0    │ online    │ 100%     │ 125.8mb  │ hzh      │ disabled │
+│ 19  │ www       │ default     │ 0.1.0   │ cluster │ 3417554  │ 1s     │ 0    │ online    │ 100%     │ 99.8mb   │ hzh      │ disabled │
+│ 20  │ www       │ default     │ 0.1.0   │ cluster │ 3417564  │ 1s     │ 0    │ online    │ 100%     │ 98.6mb   │ hzh      │ disabled │
+│ 22  │ www       │ default     │ 0.1.0   │ cluster │ 3417632  │ 0s     │ 0    │ online    │ 150%     │ 65.3mb   │ hzh      │ disabled │
+│ 23  │ www       │ default     │ 0.1.0   │ cluster │ 3417644  │ 0s     │ 0    │ online    │ 125%     │ 63.0mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 5   │ oracle    │ default     │ 0.1.0   │ fork    │ 3427677  │ 3s     │ 0    │ online    │ 0%       │ 125.9mb  │ hzh      │ disabled │
+│ 18  │ oracle    │ default     │ 0.1.0   │ fork    │ 3427893  │ 1s     │ 0    │ online    │ 162.5%   │ 103.1mb  │ hzh      │ disabled │
+│ 21  │ oracle    │ default     │ 0.1.0   │ fork    │ 3428032  │ 0s     │ 0    │ online    │ 125%     │ 69.5mb   │ hzh      │ disabled │
+│ 24  │ oracle    │ default     │ 0.1.0   │ fork    │ 3428208  │ 0s     │ 0    │ online    │ 0%       │ 20.7mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ cluster │ 3427582  │ 4s     │ 0    │ online    │ 0%       │ 126.6mb  │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ cluster │ 3427589  │ 3s     │ 0    │ online    │ 0%       │ 127.8mb  │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ cluster │ 3427600  │ 3s     │ 0    │ online    │ 0%       │ 127.1mb  │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ cluster │ 3427611  │ 3s     │ 0    │ online    │ 0%       │ 128.1mb  │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ cluster │ 3427626  │ 3s     │ 0    │ online    │ 0%       │ 126.5mb  │ hzh      │ disabled │
+│ 6   │ www       │ default     │ 0.1.0   │ cluster │ 3427960  │ 1s     │ 1    │ online    │ 125%     │ 79.0mb   │ hzh      │ disabled │
+│ 7   │ www       │ default     │ 0.1.0   │ cluster │ 3427978  │ 1s     │ 1    │ online    │ 87.5%    │ 75.6mb   │ hzh      │ disabled │
+│ 8   │ www       │ default     │ 0.1.0   │ cluster │ 3427997  │ 0s     │ 1    │ online    │ 100%     │ 69.4mb   │ hzh      │ disabled │
+│ 9   │ www       │ default     │ 0.1.0   │ cluster │ 3427989  │ 1s     │ 1    │ online    │ 100%     │ 72.9mb   │ hzh      │ disabled │
+│ 10  │ www       │ default     │ 0.1.0   │ cluster │ 3428008  │ 0s     │ 1    │ online    │ 112.5%   │ 69.4mb   │ hzh      │ disabled │
+│ 11  │ www       │ default     │ 0.1.0   │ cluster │ 3428021  │ 0s     │ 1    │ online    │ 62.5%    │ 67.8mb   │ hzh      │ disabled │
+│ 12  │ www       │ default     │ 0.1.0   │ cluster │ 3428056  │ 0s     │ 1    │ online    │ 75%      │ 65.0mb   │ hzh      │ disabled │
+│ 13  │ www       │ default     │ 0.1.0   │ cluster │ 3428085  │ 0s     │ 1    │ online    │ 75%      │ 64.1mb   │ hzh      │ disabled │
+│ 14  │ www       │ default     │ 0.1.0   │ cluster │ 3428099  │ 0s     │ 1    │ online    │ 87.5%    │ 62.1mb   │ hzh      │ disabled │
+│ 15  │ www       │ default     │ 0.1.0   │ cluster │ 3428137  │ 0s     │ 1    │ online    │ 125%     │ 57.8mb   │ hzh      │ disabled │
+│ 16  │ www       │ default     │ 0.1.0   │ cluster │ 3428158  │ 0s     │ 1    │ online    │ 87.5%    │ 56.5mb   │ hzh      │ disabled │
+│ 17  │ www       │ default     │ 0.1.0   │ cluster │ 3428175  │ 0s     │ 1    │ online    │ 100%     │ 52.6mb   │ hzh      │ disabled │
+│ 19  │ www       │ default     │ 0.1.0   │ cluster │ 3427902  │ 1s     │ 0    │ online    │ 100%     │ 100.0mb  │ hzh      │ disabled │
+│ 20  │ www       │ default     │ 0.1.0   │ cluster │ 3427917  │ 1s     │ 0    │ online    │ 100%     │ 97.6mb   │ hzh      │ disabled │
+│ 22  │ www       │ default     │ 0.1.0   │ cluster │ 3428031  │ 0s     │ 0    │ online    │ 75%      │ 66.6mb   │ hzh      │ disabled │
+│ 23  │ www       │ default     │ 0.1.0   │ cluster │ 3428055  │ 0s     │ 0    │ online    │ 62.5%    │ 64.6mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 6   │ oracle    │ default     │ 0.1.0   │ fork    │ 3444209  │ 3s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 21  │ oracle    │ default     │ 0.1.0   │ fork    │ 3444544  │ 0s     │ 0    │ online    │ 100%     │ 67.0mb   │ hzh      │ disabled │
+│ 23  │ oracle    │ default     │ 0.1.0   │ fork    │ 3444717  │ 0s     │ 0    │ online    │ 0%       │ 26.0mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ cluster │ 3444113  │ 4s     │ 0    │ online    │ 0%       │ 126.8mb  │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ cluster │ 3444120  │ 4s     │ 0    │ online    │ 0%       │ 126.5mb  │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ cluster │ 3444131  │ 3s     │ 0    │ online    │ 0%       │ 126.2mb  │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ cluster │ 3444142  │ 3s     │ 0    │ online    │ 0%       │ 128.1mb  │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ cluster │ 3444153  │ 3s     │ 0    │ online    │ 0%       │ 125.7mb  │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ cluster │ 3444476  │ 1s     │ 1    │ online    │ 128.6%   │ 78.7mb   │ hzh      │ disabled │
+│ 7   │ www       │ default     │ 0.1.0   │ cluster │ 3444489  │ 1s     │ 1    │ online    │ 85.7%    │ 72.0mb   │ hzh      │ disabled │
+│ 8   │ www       │ default     │ 0.1.0   │ cluster │ 3444496  │ 1s     │ 1    │ online    │ 71.4%    │ 72.4mb   │ hzh      │ disabled │
+│ 9   │ www       │ default     │ 0.1.0   │ cluster │ 3444509  │ 1s     │ 1    │ online    │ 71.4%    │ 69.6mb   │ hzh      │ disabled │
+│ 10  │ www       │ default     │ 0.1.0   │ cluster │ 3444517  │ 0s     │ 1    │ online    │ 157.1%   │ 70.8mb   │ hzh      │ disabled │
+│ 11  │ www       │ default     │ 0.1.0   │ cluster │ 3444537  │ 0s     │ 1    │ online    │ 128.6%   │ 69.6mb   │ hzh      │ disabled │
+│ 12  │ www       │ default     │ 0.1.0   │ cluster │ 3444564  │ 0s     │ 1    │ online    │ 100%     │ 65.9mb   │ hzh      │ disabled │
+│ 13  │ www       │ default     │ 0.1.0   │ cluster │ 3444576  │ 0s     │ 1    │ online    │ 100%     │ 64.0mb   │ hzh      │ disabled │
+│ 14  │ www       │ default     │ 0.1.0   │ cluster │ 3444599  │ 0s     │ 1    │ online    │ 100%     │ 61.0mb   │ hzh      │ disabled │
+│ 15  │ www       │ default     │ 0.1.0   │ cluster │ 3444637  │ 0s     │ 1    │ online    │ 100%     │ 57.5mb   │ hzh      │ disabled │
+│ 16  │ www       │ default     │ 0.1.0   │ cluster │ 3444663  │ 0s     │ 1    │ online    │ 100%     │ 56.4mb   │ hzh      │ disabled │
+│ 17  │ www       │ default     │ 0.1.0   │ cluster │ 3444672  │ 0s     │ 1    │ online    │ 85.7%    │ 53.2mb   │ hzh      │ disabled │
+│ 18  │ www       │ default     │ 0.1.0   │ cluster │ 3444417  │ 1s     │ 0    │ online    │ 157.1%   │ 103.6mb  │ hzh      │ disabled │
+│ 19  │ www       │ default     │ 0.1.0   │ cluster │ 3444424  │ 1s     │ 0    │ online    │ 100%     │ 99.8mb   │ hzh      │ disabled │
+│ 20  │ www       │ default     │ 0.1.0   │ cluster │ 3444528  │ 0s     │ 0    │ online    │ 85.7%    │ 69.1mb   │ hzh      │ disabled │
+│ 22  │ www       │ default     │ 0.1.0   │ cluster │ 3444554  │ 0s     │ 0    │ online    │ 100%     │ 68.8mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 6   │ oracle    │ default     │ 0.1.0   │ fork    │ 3458812  │ 3s     │ 0    │ online    │ 0%       │ 125.6mb  │ hzh      │ disabled │
+│ 21  │ oracle    │ default     │ 0.1.0   │ fork    │ 3459089  │ 0s     │ 0    │ online    │ 100%     │ 63.8mb   │ hzh      │ disabled │
+│ 23  │ oracle    │ default     │ 0.1.0   │ fork    │ 3459143  │ 0s     │ 0    │ online    │ 0%       │ 26.0mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ cluster │ 3458715  │ 3s     │ 0    │ online    │ 0%       │ 127.2mb  │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ cluster │ 3458722  │ 3s     │ 0    │ online    │ 0%       │ 126.9mb  │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ cluster │ 3458733  │ 3s     │ 0    │ online    │ 0%       │ 126.6mb  │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ cluster │ 3458744  │ 3s     │ 0    │ online    │ 0%       │ 127.3mb  │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ cluster │ 3458759  │ 3s     │ 0    │ online    │ 0%       │ 126.4mb  │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ cluster │ 3458804  │ 3s     │ 0    │ online    │ 0%       │ 126.5mb  │ hzh      │ disabled │
+│ 7   │ www       │ default     │ 0.1.0   │ cluster │ 3458811  │ 3s     │ 0    │ online    │ 80%      │ 126.5mb  │ hzh      │ disabled │
+│ 8   │ www       │ default     │ 0.1.0   │ cluster │ 3458829  │ 3s     │ 0    │ online    │ 100%     │ 125.7mb  │ hzh      │ disabled │
+│ 9   │ www       │ default     │ 0.1.0   │ cluster │ 3458848  │ 2s     │ 0    │ online    │ 120%     │ 126.2mb  │ hzh      │ disabled │
+│ 10  │ www       │ default     │ 0.1.0   │ cluster │ 3458865  │ 2s     │ 0    │ online    │ 100%     │ 124.3mb  │ hzh      │ disabled │
+│ 11  │ www       │ default     │ 0.1.0   │ cluster │ 3458884  │ 2s     │ 0    │ online    │ 220%     │ 123.4mb  │ hzh      │ disabled │
+│ 12  │ www       │ default     │ 0.1.0   │ cluster │ 3458899  │ 2s     │ 0    │ online    │ 220%     │ 128.0mb  │ hzh      │ disabled │
+│ 13  │ www       │ default     │ 0.1.0   │ cluster │ 3458914  │ 2s     │ 0    │ online    │ 220%     │ 123.4mb  │ hzh      │ disabled │
+│ 14  │ www       │ default     │ 0.1.0   │ cluster │ 3458929  │ 2s     │ 0    │ online    │ 80%      │ 125.8mb  │ hzh      │ disabled │
+│ 15  │ www       │ default     │ 0.1.0   │ cluster │ 3458940  │ 2s     │ 0    │ online    │ 160%     │ 125.9mb  │ hzh      │ disabled │
+│ 16  │ www       │ default     │ 0.1.0   │ cluster │ 3458959  │ 2s     │ 0    │ online    │ 100%     │ 121.8mb  │ hzh      │ disabled │
+│ 17  │ www       │ default     │ 0.1.0   │ cluster │ 3458974  │ 2s     │ 0    │ online    │ 100%     │ 110.0mb  │ hzh      │ disabled │
+│ 18  │ www       │ default     │ 0.1.0   │ cluster │ 3459018  │ 1s     │ 0    │ online    │ 100%     │ 97.7mb   │ hzh      │ disabled │
+│ 19  │ www       │ default     │ 0.1.0   │ cluster │ 3459025  │ 1s     │ 0    │ online    │ 80%      │ 89.6mb   │ hzh      │ disabled │
+│ 20  │ www       │ default     │ 0.1.0   │ cluster │ 3459083  │ 0s     │ 0    │ online    │ 80%      │ 65.4mb   │ hzh      │ disabled │
+│ 22  │ www       │ default     │ 0.1.0   │ cluster │ 3459098  │ 0s     │ 0    │ online    │ 100%     │ 63.6mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2][ERROR] Script already launched, add -f option to force re-execution
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 6   │ oracle    │ default     │ 0.1.0   │ fork    │ 3507890  │ 3s     │ 0    │ online    │ 0%       │ 125.5mb  │ hzh      │ disabled │
+│ 20  │ oracle    │ default     │ 0.1.0   │ fork    │ 3508163  │ 0s     │ 0    │ online    │ 180%     │ 68.2mb   │ hzh      │ disabled │
+│ 23  │ oracle    │ default     │ 0.1.0   │ fork    │ 3508244  │ 0s     │ 0    │ online    │ 0%       │ 31.6mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ cluster │ 3507794  │ 4s     │ 0    │ online    │ 0%       │ 126.6mb  │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ cluster │ 3507801  │ 4s     │ 0    │ online    │ 0%       │ 126.8mb  │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ cluster │ 3507812  │ 4s     │ 0    │ online    │ 0%       │ 127.1mb  │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ cluster │ 3507823  │ 3s     │ 0    │ online    │ 0%       │ 126.4mb  │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ cluster │ 3507834  │ 3s     │ 0    │ online    │ 0%       │ 126.4mb  │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ cluster │ 3507889  │ 3s     │ 0    │ online    │ 0%       │ 127.4mb  │ hzh      │ disabled │
+│ 7   │ www       │ default     │ 0.1.0   │ cluster │ 3507908  │ 3s     │ 0    │ online    │ 0%       │ 127.0mb  │ hzh      │ disabled │
+│ 8   │ www       │ default     │ 0.1.0   │ cluster │ 3507919  │ 3s     │ 0    │ online    │ 20%      │ 128.1mb  │ hzh      │ disabled │
+│ 9   │ www       │ default     │ 0.1.0   │ cluster │ 3507930  │ 3s     │ 0    │ online    │ 60%      │ 126.3mb  │ hzh      │ disabled │
+│ 10  │ www       │ default     │ 0.1.0   │ cluster │ 3507949  │ 3s     │ 0    │ online    │ 140%     │ 126.0mb  │ hzh      │ disabled │
+│ 11  │ www       │ default     │ 0.1.0   │ cluster │ 3507964  │ 3s     │ 0    │ online    │ 200%     │ 125.7mb  │ hzh      │ disabled │
+│ 12  │ www       │ default     │ 0.1.0   │ cluster │ 3507979  │ 3s     │ 0    │ online    │ 120%     │ 124.4mb  │ hzh      │ disabled │
+│ 13  │ www       │ default     │ 0.1.0   │ cluster │ 3507994  │ 2s     │ 0    │ online    │ 120%     │ 125.5mb  │ hzh      │ disabled │
+│ 14  │ www       │ default     │ 0.1.0   │ cluster │ 3508009  │ 2s     │ 0    │ online    │ 140%     │ 124.5mb  │ hzh      │ disabled │
+│ 15  │ www       │ default     │ 0.1.0   │ cluster │ 3508024  │ 2s     │ 0    │ online    │ 240%     │ 124.4mb  │ hzh      │ disabled │
+│ 16  │ www       │ default     │ 0.1.0   │ cluster │ 3508039  │ 2s     │ 0    │ online    │ 400%     │ 128.3mb  │ hzh      │ disabled │
+│ 17  │ www       │ default     │ 0.1.0   │ cluster │ 3508054  │ 2s     │ 0    │ online    │ 120%     │ 125.6mb  │ hzh      │ disabled │
+│ 18  │ www       │ default     │ 0.1.0   │ cluster │ 3508098  │ 1s     │ 0    │ online    │ 160%     │ 99.4mb   │ hzh      │ disabled │
+│ 19  │ www       │ default     │ 0.1.0   │ cluster │ 3508105  │ 1s     │ 0    │ online    │ 120%     │ 98.3mb   │ hzh      │ disabled │
+│ 21  │ www       │ default     │ 0.1.0   │ cluster │ 3508169  │ 0s     │ 0    │ online    │ 120%     │ 68.8mb   │ hzh      │ disabled │
+│ 22  │ www       │ default     │ 0.1.0   │ cluster │ 3508181  │ 0s     │ 0    │ online    │ 140%     │ 64.0mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/fiscogateway/oraclegate2/ethgateway/bin/oracle.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 16  │ oracle    │ default     │ 0.1.0   │ fork    │ 3642147  │ 6s     │ 0    │ online    │ 0%       │ 125.8mb  │ hzh      │ disabled │
+│ 41  │ oracle    │ default     │ 0.1.0   │ fork    │ 3642670  │ 1s     │ 0    │ online    │ 88.9%    │ 97.5mb   │ hzh      │ disabled │
+│ 50  │ oracle    │ default     │ 0.1.0   │ fork    │ 3642848  │ 0s     │ 0    │ online    │ 0%       │ 33.4mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ cluster │ 3641880  │ 7s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ cluster │ 3641887  │ 7s     │ 0    │ online    │ 0%       │ 127.4mb  │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ cluster │ 3641898  │ 7s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ cluster │ 3641909  │ 7s     │ 0    │ online    │ 0%       │ 126.9mb  │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ cluster │ 3641924  │ 7s     │ 0    │ online    │ 0%       │ 125.8mb  │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ cluster │ 3641945  │ 7s     │ 0    │ online    │ 0%       │ 127.3mb  │ hzh      │ disabled │
+│ 6   │ www       │ default     │ 0.1.0   │ cluster │ 3641960  │ 7s     │ 0    │ online    │ 0%       │ 126.1mb  │ hzh      │ disabled │
+│ 7   │ www       │ default     │ 0.1.0   │ cluster │ 3641975  │ 7s     │ 0    │ online    │ 0%       │ 127.3mb  │ hzh      │ disabled │
+│ 8   │ www       │ default     │ 0.1.0   │ cluster │ 3641990  │ 7s     │ 0    │ online    │ 0%       │ 126.2mb  │ hzh      │ disabled │
+│ 9   │ www       │ default     │ 0.1.0   │ cluster │ 3642005  │ 7s     │ 0    │ online    │ 0%       │ 127.7mb  │ hzh      │ disabled │
+│ 10  │ www       │ default     │ 0.1.0   │ cluster │ 3642020  │ 7s     │ 0    │ online    │ 0%       │ 125.8mb  │ hzh      │ disabled │
+│ 11  │ www       │ default     │ 0.1.0   │ cluster │ 3642036  │ 7s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 12  │ www       │ default     │ 0.1.0   │ cluster │ 3642051  │ 7s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 13  │ www       │ default     │ 0.1.0   │ cluster │ 3642066  │ 7s     │ 0    │ online    │ 0%       │ 126.0mb  │ hzh      │ disabled │
+│ 14  │ www       │ default     │ 0.1.0   │ cluster │ 3642081  │ 6s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 15  │ www       │ default     │ 0.1.0   │ cluster │ 3642096  │ 6s     │ 0    │ online    │ 0%       │ 126.2mb  │ hzh      │ disabled │
+│ 17  │ www       │ default     │ 0.1.0   │ cluster │ 3642155  │ 6s     │ 0    │ online    │ 0%       │ 126.1mb  │ hzh      │ disabled │
+│ 18  │ www       │ default     │ 0.1.0   │ cluster │ 3642165  │ 6s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 19  │ www       │ default     │ 0.1.0   │ cluster │ 3642176  │ 5s     │ 0    │ online    │ 0%       │ 127.4mb  │ hzh      │ disabled │
+│ 20  │ www       │ default     │ 0.1.0   │ cluster │ 3642191  │ 5s     │ 0    │ online    │ 0%       │ 126.9mb  │ hzh      │ disabled │
+│ 21  │ www       │ default     │ 0.1.0   │ cluster │ 3642206  │ 5s     │ 0    │ online    │ 0%       │ 127.6mb  │ hzh      │ disabled │
+│ 22  │ www       │ default     │ 0.1.0   │ cluster │ 3642221  │ 5s     │ 0    │ online    │ 0%       │ 127.4mb  │ hzh      │ disabled │
+│ 23  │ www       │ default     │ 0.1.0   │ cluster │ 3642242  │ 5s     │ 0    │ online    │ 0%       │ 126.5mb  │ hzh      │ disabled │
+│ 24  │ www       │ default     │ 0.1.0   │ cluster │ 3642257  │ 5s     │ 0    │ online    │ 0%       │ 126.1mb  │ hzh      │ disabled │
+│ 25  │ www       │ default     │ 0.1.0   │ cluster │ 3642277  │ 5s     │ 0    │ online    │ 0%       │ 127.4mb  │ hzh      │ disabled │
+│ 26  │ www       │ default     │ 0.1.0   │ cluster │ 3642297  │ 4s     │ 0    │ online    │ 0%       │ 128.1mb  │ hzh      │ disabled │
+│ 27  │ www       │ default     │ 0.1.0   │ cluster │ 3642314  │ 4s     │ 0    │ online    │ 0%       │ 125.9mb  │ hzh      │ disabled │
+│ 28  │ www       │ default     │ 0.1.0   │ cluster │ 3642333  │ 4s     │ 0    │ online    │ 0%       │ 126.4mb  │ hzh      │ disabled │
+│ 29  │ www       │ default     │ 0.1.0   │ cluster │ 3642355  │ 4s     │ 0    │ online    │ 0%       │ 126.9mb  │ hzh      │ disabled │
+│ 30  │ www       │ default     │ 0.1.0   │ cluster │ 3642380  │ 4s     │ 0    │ online    │ 0%       │ 125.2mb  │ hzh      │ disabled │
+│ 31  │ www       │ default     │ 0.1.0   │ cluster │ 3642400  │ 4s     │ 0    │ online    │ 0%       │ 126.9mb  │ hzh      │ disabled │
+│ 32  │ www       │ default     │ 0.1.0   │ cluster │ 3642417  │ 3s     │ 0    │ online    │ 0%       │ 126.3mb  │ hzh      │ disabled │
+│ 33  │ www       │ default     │ 0.1.0   │ cluster │ 3642475  │ 3s     │ 0    │ online    │ 0%       │ 126.4mb  │ hzh      │ disabled │
+│ 34  │ www       │ default     │ 0.1.0   │ cluster │ 3642482  │ 3s     │ 0    │ online    │ 0%       │ 126.5mb  │ hzh      │ disabled │
+│ 35  │ www       │ default     │ 0.1.0   │ cluster │ 3642493  │ 3s     │ 0    │ online    │ 0%       │ 128.6mb  │ hzh      │ disabled │
+│ 36  │ www       │ default     │ 0.1.0   │ cluster │ 3642505  │ 2s     │ 0    │ online    │ 11.1%    │ 126.1mb  │ hzh      │ disabled │
+│ 37  │ www       │ default     │ 0.1.0   │ cluster │ 3642524  │ 2s     │ 0    │ online    │ 122.2%   │ 126.4mb  │ hzh      │ disabled │
+│ 38  │ www       │ default     │ 0.1.0   │ cluster │ 3642547  │ 2s     │ 0    │ online    │ 100%     │ 125.9mb  │ hzh      │ disabled │
+│ 39  │ www       │ default     │ 0.1.0   │ cluster │ 3642562  │ 2s     │ 0    │ online    │ 88.9%    │ 124.2mb  │ hzh      │ disabled │
+│ 40  │ www       │ default     │ 0.1.0   │ cluster │ 3642578  │ 2s     │ 0    │ online    │ 266.7%   │ 124.3mb  │ hzh      │ disabled │
+│ 42  │ www       │ default     │ 0.1.0   │ cluster │ 3642679  │ 1s     │ 0    │ online    │ 100%     │ 89.5mb   │ hzh      │ disabled │
+│ 43  │ www       │ default     │ 0.1.0   │ cluster │ 3642692  │ 1s     │ 0    │ online    │ 111.1%   │ 84.9mb   │ hzh      │ disabled │
+│ 44  │ www       │ default     │ 0.1.0   │ cluster │ 3642702  │ 1s     │ 0    │ online    │ 100%     │ 83.1mb   │ hzh      │ disabled │
+│ 45  │ www       │ default     │ 0.1.0   │ cluster │ 3642729  │ 1s     │ 0    │ online    │ 88.9%    │ 75.7mb   │ hzh      │ disabled │
+│ 46  │ www       │ default     │ 0.1.0   │ cluster │ 3642747  │ 1s     │ 0    │ online    │ 111.1%   │ 69.5mb   │ hzh      │ disabled │
+│ 47  │ www       │ default     │ 0.1.0   │ cluster │ 3642766  │ 1s     │ 0    │ online    │ 144.4%   │ 70.0mb   │ hzh      │ disabled │
+│ 48  │ www       │ default     │ 0.1.0   │ cluster │ 3642777  │ 0s     │ 0    │ online    │ 77.8%    │ 67.0mb   │ hzh      │ disabled │
+│ 49  │ www       │ default     │ 0.1.0   │ cluster │ 3642792  │ 0s     │ 0    │ online    │ 88.9%    │ 65.1mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘

@@ -1,0 +1,122 @@
+version: '3.3'
+#networks:
+#  ccscnet:
+#    external: true
+#    name: host
+
+services:
+  ccscethgate1:
+#    container_name: ccscethgate1
+    image: ccscethgate
+    volumes:
+      - ./config1:/usr/src/app/config
+    expose:
+      - "3000"
+
+  ccscethoracle1:
+    container_name: ccscethoracle1
+    image: ccscethoracle
+    volumes:
+      - ./config1:/usr/src/app/config
+
+  ccscethgate2:
+#    container_name: ccscethgate2
+    image: ccscethgate
+    volumes:
+      - ./config2:/usr/src/app/config
+    expose:
+      - "3001"
+
+  ccscethoracle2:
+    container_name: ccscethoracle2
+    image: ccscethoracle
+    volumes:
+      - ./config2:/usr/src/app/config
+
+  ccscethgate3:
+#    container_name: ccscethgate3
+    image: ccscethgate
+    volumes:
+      - ./config3:/usr/src/app/config
+    expose:
+      - "3002"
+
+  ccscethoracle3:
+    container_name: ccscethoracle3
+    image: ccscethoracle
+    volumes:
+      - ./config3:/usr/src/app/config
+
+
+
+
+  ccscfiscogate1:
+#    container_name: ccscfiscogate1
+    image: ccscfiscogate
+#    command:
+#      - /bin/bash
+#      - ./start.sh
+#      - node /usr/src/app/gateway/bin/www.js
+#      - /bin/bash cd /usr/src/app/gateway/ && /bin/bash nohup npm run starto >> oraclelog.txt &
+    volumes:
+      - ./config4:/usr/src/app/gateway/config
+      - ./wwwlog.txt:/usr/src/app/gateway/wwwlog.txt
+      - ./oraclelog.txt:/usr/src/app/gateway/oraclelog.txt
+    expose:
+      - "3003"
+  ccscfiscooracle1:
+    container_name: ccscfiscooracle1
+    image: ccscfiscooracle
+#    command:
+#      - /bin/bash
+#      - ./start.sh
+#      - node /usr/src/app/gateway/bin/www.js
+#      - /bin/bash cd /usr/src/app/gateway/ && /bin/bash nohup npm run starto >> oraclelog.txt &
+    volumes:
+      - ./config4:/usr/src/app/gateway/config
+      - ./wwwlog.txt:/usr/src/app/gateway/wwwlog.txt
+      - ./oraclelog.txt:/usr/src/app/gateway/oraclelog.txt
+
+  ccscfiscogate2:
+#    container_name: ccscfiscogate2
+    image: ccscfiscogate
+#    command:
+#      - /bin/bash
+#      - ./start.sh
+#      - node /usr/src/app/gateway/bin/www.js
+#      - /bin/bash cd /usr/src/app/gateway/ && /bin/bash nohup npm run starto >> oraclelog.txt &
+    volumes:
+      - ./config5:/usr/src/app/gateway/config
+      - ./wwwlog.txt:/usr/src/app/gateway/wwwlog.txt
+      - ./oraclelog.txt:/usr/src/app/gateway/oraclelog.txt
+    expose:
+      - "3004"
+  ccscfiscooracle2:
+    container_name: ccscfiscooracle2
+    image: ccscfiscooracle
+#    command:
+#      - /bin/bash
+#      - ./start.sh
+#      - node /usr/src/app/gateway/bin/www.js
+#      - /bin/bash cd /usr/src/app/gateway/ && /bin/bash nohup npm run starto >> oraclelog.txt &
+    volumes:
+      - ./config5:/usr/src/app/gateway/config
+      - ./wwwlog.txt:/usr/src/app/gateway/wwwlog.txt
+      - ./oraclelog.txt:/usr/src/app/gateway/oraclelog.txt
+
+
+
+
+  nginx:
+    container_name: nginx0
+    image: nginx:latest
+    volumes:
+      - ./nginx_conf/nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+      - "3002:3002"
+      - "3003:3003"
+      - "3004:3004"
+
+

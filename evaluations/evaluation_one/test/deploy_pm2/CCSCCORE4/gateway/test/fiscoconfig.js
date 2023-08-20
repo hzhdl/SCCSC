@@ -1,0 +1,27 @@
+{
+    "encryptType": "ECDSA",
+    "accounts": {
+    "alice": {
+        "type": "pem",
+            "value": "./accounts/0xea96f21b87529a5984848a08e8c1d3789e860c4f.pem"
+    },
+    // "bob": {
+    //     "type": "pem",
+    //         "value": "./accounts/bob.pem"
+    // }
+},
+    "nodes": [
+    {
+        "ip": "127.0.0.1",
+        "port": "20200"
+    }
+],
+    "authentication": {
+        "key": "./sdk/sdk.key",
+        "cert": "./sdk/sdk.crt",
+        "ca": "./sdk/ca.crt"
+},
+    "groupID": 1,
+    "chainID": 1,
+    "timeout": 10000
+}

@@ -1,0 +1,3 @@
+[PM2][WARN] Applications www, oracle not running, starting...
+[PM2][ERROR] Error: Script not found: /home/hzh/mainpro/test/bin/www.js
+[PM2][ERROR] Error: Script not found: /home/hzh/mainpro/test/bin/oracle.js

@@ -1,0 +1,92 @@
+已成功运行，监听端口：3000
+(node:2945051) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Connected!
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ oracle    │ default     │ 0.1.0   │ fork    │ 2945258  │ 0s     │ 0    │ online    │ 0%       │ 31.0mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 2945259  │ 0s     │ 0    │ online    │ 0%       │ 20.8mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 1   │ oracle    │ default     │ 0.1.0   │ fork    │ 2948371  │ 0s     │ 0    │ online    │ 0%       │ 49.8mb   │ hzh      │ disabled │
+│ 4   │ oracle    │ default     │ 0.1.0   │ fork    │ 2948393  │ 0s     │ 0    │ online    │ 0%       │ 42.5mb   │ hzh      │ disabled │
+│ 6   │ oracle    │ default     │ 0.1.0   │ fork    │ 2948402  │ 0s     │ 0    │ online    │ 0%       │ 40.1mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 2948365  │ 0s     │ 0    │ online    │ 0%       │ 49.7mb   │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ fork    │ 2948377  │ 0s     │ 0    │ online    │ 0%       │ 49.0mb   │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ fork    │ 2948379  │ 0s     │ 0    │ online    │ 0%       │ 48.6mb   │ hzh      │ disabled │
+│ 5   │ www       │ default     │ 0.1.0   │ fork    │ 2948401  │ 0s     │ 0    │ online    │ 0%       │ 41.9mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ oracle    │ default     │ 0.1.0   │ fork    │ 2949714  │ 0s     │ 0    │ online    │ 0%       │ 42.0mb   │ hzh      │ disabled │
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 2949721  │ 0s     │ 0    │ online    │ 0%       │ 40.7mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 2949715  │ 0s     │ 0    │ online    │ 0%       │ 41.6mb   │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ fork    │ 2949727  │ 0s     │ 0    │ online    │ 0%       │ 40.1mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 2950601  │ 0s     │ 0    │ online    │ 0%       │ 48.0mb   │ hzh      │ disabled │
+│ 3   │ oracle    │ default     │ 0.1.0   │ fork    │ 2950608  │ 0s     │ 0    │ online    │ 0%       │ 46.7mb   │ hzh      │ disabled │
+│ 5   │ oracle    │ default     │ 0.1.0   │ fork    │ 2950623  │ 0s     │ 0    │ online    │ 0%       │ 40.8mb   │ hzh      │ disabled │
+│ 7   │ oracle    │ default     │ 0.1.0   │ fork    │ 2950636  │ 0s     │ 0    │ online    │ 200%     │ 34.2mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 2950594  │ 0s     │ 0    │ online    │ 0%       │ 48.4mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 2950600  │ 0s     │ 0    │ online    │ 0%       │ 49.0mb   │ hzh      │ disabled │
+│ 4   │ www       │ default     │ 0.1.0   │ fork    │ 2950621  │ 0s     │ 0    │ online    │ 0%       │ 42.0mb   │ hzh      │ disabled │
+│ 6   │ www       │ default     │ 0.1.0   │ fork    │ 2950634  │ 0s     │ 0    │ online    │ 200%     │ 40.1mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name   │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ www    │ default     │ 0.1.0   │ fork    │ 2951228  │ 0s     │ 0    │ online    │ 0%       │ 30.7mb   │ hzh      │ disabled │
+└─────┴────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 2   │ oracle    │ default     │ 0.1.0   │ fork    │ 3026206  │ 0s     │ 0    │ online    │ 100%     │ 36.2mb   │ hzh      │ disabled │
+│ 0   │ www       │ default     │ 0.1.0   │ fork    │ 3026199  │ 0s     │ 0    │ online    │ 0%       │ 41.7mb   │ hzh      │ disabled │
+│ 1   │ www       │ default     │ 0.1.0   │ fork    │ 3026200  │ 0s     │ 0    │ online    │ 0%       │ 40.1mb   │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ fork    │ 3026217  │ 0s     │ 0    │ online    │ 0%       │ 31.8mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬───────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼───────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ oracle    │ default     │ 0.1.0   │ fork    │ 3027777  │ 0s     │ 0    │ online    │ 0%       │ 40.7mb   │ hzh      │ disabled │
+│ 1   │ oracle    │ default     │ 0.1.0   │ fork    │ 3027778  │ 0s     │ 0    │ online    │ 0%       │ 38.3mb   │ hzh      │ disabled │
+│ 2   │ www       │ default     │ 0.1.0   │ fork    │ 3027789  │ 0s     │ 0    │ online    │ 100%     │ 34.2mb   │ hzh      │ disabled │
+│ 3   │ www       │ default     │ 0.1.0   │ fork    │ 3027790  │ 0s     │ 0    │ online    │ 0%       │ 30.5mb   │ hzh      │ disabled │
+└─────┴───────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name   │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ www    │ default     │ 0.1.0   │ fork    │ 3358902  │ 0s     │ 0    │ online    │ 0%       │ 20.8mb   │ hzh      │ disabled │
+└─────┴────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2][ERROR] Script already launched, add -f option to force re-execution
+[PM2] Starting /home/hzh/mainpro/gateway/ethgateway/oraclegate1/ethgateway/bin/www.js in fork_mode (1 instance)
+[PM2] Done.
+┌─────┬────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id  │ name   │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├─────┼────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0   │ www    │ default     │ 0.1.0   │ fork    │ 3365268  │ 0s     │ 0    │ online    │ 0%       │ 41.5mb   │ hzh      │ disabled │
+│ 1   │ www    │ default     │ 0.1.0   │ fork    │ 3365269  │ 0s     │ 0    │ online    │ 0%       │ 40.1mb   │ hzh      │ disabled │
+└─────┴────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
